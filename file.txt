@@ -1,2 +1,2 @@
-fsdbamboo_agentImageName="agent-image"
+fdsfsdbamboo_agentImageName="agent-image"
 T:WQfsd
